@@ -6,6 +6,8 @@ public class MainApplication {
         System.out.println("Hello World!");
         System.out.println("11100011");
         System.out.println("11111122");
+        System.out.println("11111111");
+        System.out.println("1111110");
         System.out.println("1110001111");
         System.out.println("11111001");
     }
